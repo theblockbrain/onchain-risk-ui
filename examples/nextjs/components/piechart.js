@@ -23,11 +23,12 @@ const PieChart = () => {
                 'Angry Dynomites',
                 'Illuvium',
                 'Ethereum'
-              ]
+              ],
+              bottom: 0
             },
             series: [
               {
-                name: 'Access From',
+                name: 'Allocation',
                 type: 'pie',
                 selectedMode: 'single',
                 radius: [0, '30%'],
@@ -45,7 +46,7 @@ const PieChart = () => {
                 ]
               },
               {
-                name: 'Access From',
+                name: 'Allocation',
                 type: 'pie',
                 radius: ['45%', '60%'],
                 labelLine: {
@@ -84,7 +85,7 @@ const PieChart = () => {
                   }
                 },
                 data: [
-                  { value: 1048, name: 'Huxley Comics' },
+                  { value: 533, name: 'Huxley Comics' },
                   { value: 335, name: 'Huxley Robots' },
                   { value: 310, name: 'Cryptoskulls' },
                   { value: 251, name: 'Angry Dynomites' },

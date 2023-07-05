@@ -7,13 +7,13 @@ export default function Home() {
   return (
     <main className={styles.main}>
 
-      <div>     
-        <h2>Risk Brainscore</h2>
+      <div className={styles.center}>     
+        <h2>Blockbrain Risk Score: HIGH RISK</h2>
       </div>
-      <div>
+      <div className={styles.section}>
         <PieChart />
       </div>
-      <div>
+      <div className={styles.section}>
         <RiskTable />
       </div>
 
