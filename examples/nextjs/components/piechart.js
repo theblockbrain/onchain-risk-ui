@@ -9,41 +9,87 @@ const PieChart = () => {
     React.useEffect(() => {
         const pieChartOptions = {
             tooltip: {
-              trigger: 'item'
+              trigger: 'item',
+              formatter: '{a} <br/>{b}: {c} ({d}%)'
             },
             legend: {
-              top: '5%',
-              left: 'center'
+              data: [
+                'NFTs',
+                'Stables',
+                'Coins',
+                'Huxley Comics',
+                'Huxley Robots',
+                'Cryptoskulls',
+                'Angry Dynomites',
+                'Illuvium',
+                'Ethereum'
+              ]
             },
             series: [
               {
                 name: 'Access From',
                 type: 'pie',
-                radius: ['40%', '70%'],
-                avoidLabelOverlap: false,
-                itemStyle: {
-                  borderRadius: 10,
-                  borderColor: '#fff',
-                  borderWidth: 2
-                },
+                selectedMode: 'single',
+                radius: [0, '30%'],
                 label: {
-                  show: false,
-                  position: 'center'
-                },
-                emphasis: {
-                  label: {
-                    show: true,
-                    fontSize: 40,
-                    fontWeight: 'bold'
-                  }
+                  position: 'inner',
+                  fontSize: 14
                 },
                 labelLine: {
                   show: false
                 },
                 data: [
-                  { value: 300, name: 'StableCoins' },
-                  { value: 735, name: 'ERC20' },
-                  { value: 200, name: 'NFTs' }
+                  { value: 1548, name: 'NFTs' },
+                  { value: 775, name: 'Stables' },
+                  { value: 679, name: 'Coins', selected: true }
+                ]
+              },
+              {
+                name: 'Access From',
+                type: 'pie',
+                radius: ['45%', '60%'],
+                labelLine: {
+                  length: 30
+                },
+                label: {
+                  formatter: '{a|{a}}{abg|}\n{hr|}\n  {b|{b}：}{c}  {per|{d}%}  ',
+                  backgroundColor: '#F6F8FC',
+                  borderColor: '#8C8D8E',
+                  borderWidth: 1,
+                  borderRadius: 4,
+                  rich: {
+                    a: {
+                      color: '#6E7079',
+                      lineHeight: 22,
+                      align: 'center'
+                    },
+                    hr: {
+                      borderColor: '#8C8D8E',
+                      width: '100%',
+                      borderWidth: 1,
+                      height: 0
+                    },
+                    b: {
+                      color: '#4C5058',
+                      fontSize: 14,
+                      fontWeight: 'bold',
+                      lineHeight: 33
+                    },
+                    per: {
+                      color: '#fff',
+                      backgroundColor: '#4C5058',
+                      padding: [3, 4],
+                      borderRadius: 4
+                    }
+                  }
+                },
+                data: [
+                  { value: 1048, name: 'Huxley Comics' },
+                  { value: 335, name: 'Huxley Robots' },
+                  { value: 310, name: 'Cryptoskulls' },
+                  { value: 251, name: 'Angry Dynomites' },
+                  { value: 234, name: 'Illuvium' },
+                  { value: 147, name: 'Ethereum' },
                 ]
               }
             ]
