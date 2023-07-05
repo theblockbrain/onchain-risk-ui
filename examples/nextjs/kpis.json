@@ -1,0 +1,1446 @@
+{
+  "data": {
+    "assetTypes": {
+      "nfts": [
+        {
+          "contractAddress": "0x05844e9ae606f9867ae2047c93cac370d54ab2e1",
+          "name": "AO Art Ball",
+          "imageUrl": "https://i.seadn.io/gae/aZRJAkBS5yajjrALhyk4r3T7Q6B23Ft96L6j44oQH9pbXAchREZCNdIy6duXE133KdM1GqQCdh6rvxADvoJQXTS6vC1xcmQC_dnsog?w=500&auto=format",
+          "currentBalance": 1,
+          "weight": 0.000142,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.6610,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.004893350539,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0006873992424,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.41748664422078,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.286,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.714,
+              "label": "Medium"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 0.027694,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
+          "name": "CryptoKitties",
+          "imageUrl": "https://i.seadn.io/gae/C272ZRW1RGGef9vKMePFSCeKc1Lw6U40wl9ofNVxzUxFdj84hH9xJRQNf-7wgs7W8qw8RWe-1ybKp-VKuU5D-tg?w=500&auto=format",
+          "currentBalance": 10,
+          "weight": 0.1,
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": null,
+              "label": null
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.818820235,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.062,
+              "label": "Low"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.938,
+              "label": "Low"
+            }
+          ],
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 0.023079,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0x0e9d6552b85be180d941f1ca73ae3e318d2d4f1f",
+          "name": "Metroverse Genesis",
+          "imageUrl": "https://i.seadn.io/gae/sHO92R4xynTQtuC-DZ1B5qC5ZJe3n3Y46iufDza_sDXHuSj1zhhguoj-YjKN0pxh3b0Lg0Rz8Cp_BQliEh1o_-puGOVDDH8H7bzqcQ?w=500&auto=format",
+          "currentBalance": 1,
+          "weight": 0.000142,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.3711,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.0002974868071,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.00009460080466,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.631127295,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.293,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.707,
+              "label": "Medium"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": -0.086018,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0x42fe737749683595e4315b443eadcc9346a994d9",
+          "name": "HUXLEY Comics",
+          "imageUrl": "https://i.seadn.io/gcs/files/6e92dcabd81b9d1603c42a8622229a8c.png?w=500&auto=format",
+          "currentBalance": 30,
+          "weight": 0.382,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 1,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0016766773,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.582653294,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.05,
+              "label": "Low"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.95,
+              "label": "Low"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": -0.06361,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0x9ca8887d13bc4591ae36972702fdf9de2c97957f",
+          "name": "HUXLEY Comics",
+          "imageUrl": "https://i.seadn.io/gcs/files/6e92dcabd81b9d1603c42a8622229a8c.png?w=500&auto=format",
+          "currentBalance": 50,
+          "weight": 0.000142,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 1,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0001822360584,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.768523655,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.168,
+              "label": "Low"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.832,
+              "label": "Low"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 0.1631,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0xc65ef668114a1d0446f960ac4caa8c080efab786",
+          "name": "HUXLEY Comics",
+          "imageUrl": "https://i.seadn.io/gcs/files/6e92dcabd81b9d1603c42a8622229a8c.png?w=500&auto=format",
+          "currentBalance": 35,
+          "weight": 0.000142,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 1,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.000110115534,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.60023998,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.036,
+              "label": "Low"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.964,
+              "label": "Low"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": -0.0638,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0xa342f5d851e866e18ff98f351f2c6637f4478db5",
+          "name": "The Sandbox ASSETS",
+          "imageUrl": "https://i.seadn.io/gae/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A?w=500&auto=format",
+          "currentBalance": 1,
+          "weight": 0.000142,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 1,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0,
+              "label": "low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.006884712559,
+              "label": "Low"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.49537465,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.152,
+              "label": "Low"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.848,
+              "label": "Low"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": -0.1181,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0xc1caf0c19a8ac28c41fe59ba6c754e4b9bd54de9",
+          "name": "CryptoSkulls",
+          "imageUrl": "https://i.seadn.io/gcs/files/d62aed11c46e2ea76e0eba62bed36abb.png?w=500&auto=format",
+          "currentBalance": 3,
+          "weight": 0.11236,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": 0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.1667,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.0003130239042,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0009390717125,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.555159652,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.522,
+              "label": "High"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.478,
+              "label": "High"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 0.006553,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0xc3f733ca98e0dad0386979eb96fb1722a1a05e69",
+          "name": "MoonCats",
+          "imageUrl": "https://i.seadn.io/gcs/files/93ea4724fcb5596e34f3af1b63c9d7c6.gif?w=500&auto=format",
+          "currentBalance": 1,
+          "weight": 0.0283,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.72,
+              "label": "High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.004139268501,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.01395710553,
+              "label": "Low"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.619875897,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.495,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.505,
+              "label": "Medium"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 0,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0xd78b76fcc33cd416da9d3d42f72649a23d7ac647",
+          "name": "Lil' Heroes by Edgar Plans",
+          "imageUrl": "https://i.seadn.io/gae/4WmDJuV477K7gHdjHS0VffmQ0IfaMAaB7HVFtCU8bzx9hUMmlJJT7b-SlNO34cuzb6xNkq1AmaSBftryMVf54a9Nq0J865BimGwHKCY?w=500&auto=format",
+          "currentBalance": 1,
+          "weight": 0.00948,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.25,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.001121592911,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0008806373669,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.591359002,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.463,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.537,
+              "label": "Medium"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 0.005744,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0xee85b6ce11276b50c72b2504776f8faa36f29931",
+          "name": "Angry Dynomites Lab - Fire Dynos",
+          "imageUrl": "https://i.seadn.io/gae/5gWyKjmi-iPVhcJBvrqJNcLfTpj5_UtJSe4uN-ELsBOTy2cEKBfnAOumXCYm0n-S0Xnw-AoEp8uNf9ie99z0CW2jzt4WHrkI_SFX4w?w=500&auto=format",
+          "currentBalance": 2,
+          "weight": 0.1409,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.4222,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.02935573178,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.006350999664,
+              "label": "Low"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.480712871,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.062,
+              "label": "Low"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.938,
+              "label": "Low"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": -0.0969,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0x73da73ef3a6982109c4d5bdb0db9dd3e3783f313",
+          "name": "My Curio Cards",
+          "imageUrl": "https://i.seadn.io/gae/xNW1W9O2CYUNGS2GeHqv9yHw-wLdSb9uVoc51TL5GSp8yvC2en45pqp5zYFHhRGHZpgHJdagD2QELXwpu01frltG7Nl055aVqDTDSg?w=500&auto=format",
+          "currentBalance": 1,
+          "weight": 0.0188,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.064,
+              "label": "High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0000872740551,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.472112829,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.68,
+              "label": "High"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.32,
+              "label": "High"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 0.075267,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0x4ecd988f2861e479f7eb2e94bbb48709b9a2cb5b",
+          "name": "Moonbirds At Home",
+          "imageUrl": "https://i.seadn.io/gae/X5Fwon0m2Q3ZBazRqHNoeyyGJgZ1_cYdk86rJ99bNDlMn0LdWibQ2Kut2QelqY7d2piu-3qmywF6BaNU4FjoCFT8bC9D-8hlJhofMg?w=500&auto=format",
+          "currentBalance": 56,
+          "weight": 0.1189,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.00004,
+              "label": "Low"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.00008109845892,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0001621969178,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.631110393,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.163,
+              "label": "Low"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.837,
+              "label": "Low"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 0.025824,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0xd0e5987b2851f676ba2f680f8ed6a1f2ed3ba992",
+          "name": "HUXLEY Humans",
+          "imageUrl": "https://i.seadn.io/gcs/files/294ad0eaf7345a84b1eb9373252297f9.png?w=500&auto=format",
+          "currentBalance": 3,
+          "weight": 0.0191,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.1733,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.0007250444713,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0002505914071,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.511143714,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.365013774,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.634986226,
+              "label": "Medium"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": -0.069072,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0x430bb202bef7a2d067cd3851b681edfa78d04ee2",
+          "name": "ForeverBots",
+          "imageUrl": "https://i.seadn.io/gae/ReY--ZxnIrVUOSNHafHsPKDQCHzQ0v-0kjLQzRAHGnQfZoF0obFGQOS6lgfFIo_0a73d04Zmu8nosxDko5Tr46-wa8QwO6QVORoPfkw?w=500&auto=format",
+          "currentBalance": 6,
+          "weight": 0.0101,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": null,
+              "label": null
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.0003258514362,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.528137659,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.108,
+              "label": "Low"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.892,
+              "label": "Low"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": -0.059266,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0xd1b248dee3a4a0e9215e349dce237d4b6d6bb8a3",
+          "name": "Angry Dynomites Lab - Water Dynos",
+          "imageUrl": "https://i.seadn.io/gcs/files/cd036bdddd44d4ca9ea7fdd44068e705.gif?w=500&auto=format",
+          "currentBalance": 2,
+          "weight": 0.0481,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.4347,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.002840445126,
+              "label": "Very High"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.005024372275,
+              "label": "Low"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.592626552,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.082,
+              "label": "Low"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.918,
+              "label": "Low"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": -0.0969,
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "tokens": [
+        {
+          "contractAddress": "-",
+          "name": "Ethereum",
+          "currentBalance": 0.5258001593051532,
+          "imageUrl": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
+          "weight": 0.0744,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.7065,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.509,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": 1.59744,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.0019,
+              "label": "Very Low"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.0000001678075122,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0000003279521993,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.41748664422078,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.286,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.714,
+              "label": "Medium"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 1,
+              "label": "High"
+            }
+          ]
+        },
+        {
+          "contractAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "WETH",
+          "currentBalance": 0.17867254270954622,
+          "imageUrl": "https://assets.coingecko.com/coins/images/2518/large/weth.png?1628852295",
+          "weight": 0.0253,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.7091,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.509,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": 1.5701,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": 0.00019,
+              "label": "Very Low"
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": 0.0000001678075122,
+              "label": "Low"
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.0000003279521993,
+              "label": "Very High"
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.41748664422078,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.286,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.714,
+              "label": "Medium"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": -0.080667,
+              "label": ""
+            }
+          ]
+        },
+        {
+          "contractAddress": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+          "name": "Illuvium",
+          "currentBalance": 3.0467825356348515,
+          "imageUrl": "https://assets.coingecko.com/coins/images/14468/large/logo-200x200.png?1682415398",
+          "weight": 0.011,
+          "marketRisks": [
+            {
+              "kpiName": "Volatility",
+              "value": 0.968,
+              "label": "High"
+            },
+            {
+              "kpiName": "Max Drawdown",
+              "value": -0.7001,
+              "label": "High"
+            },
+            {
+              "kpiName": "Risk Reward",
+              "value": -0.9764,
+              "label": "High"
+            }
+          ],
+          "liquidityRisks": [
+            {
+              "kpiName": "NonWashTradeVsMarketCap",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "WashTradeShare",
+              "value": 0.027694,
+              "label": ""
+            },
+            {
+              "kpiName": "bidAskSpread",
+              "value": null,
+              "label": null
+            },
+            {
+              "kpiName": "buySideLiquidity",
+              "value": null,
+              "label": null
+            },
+            {
+              "kpiName": "sellSideLiquidity",
+              "value": 0.027694,
+              "label": ""
+            }
+          ],
+          "marketStructureRisks": [
+            {
+              "kpiName": "giniCoefficient",
+              "value": 0.41748664422078,
+              "label": "High"
+            },
+            {
+              "kpiName": "bidRatio",
+              "value": 0.286,
+              "label": "Medium"
+            },
+            {
+              "kpiName": "askRatio",
+              "value": 0.714,
+              "label": "Medium"
+            }
+          ],
+          "portfolioRisks": [
+            {
+              "kpiName": "ethCorrelation",
+              "value": 0.752417,
+              "label": ""
+            }
+          ]
+        }
+      ],
+      "stables": [
+        {
+          "contractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "name": "USD Coin",
+          "currentBalance": 0.000534,
+          "imageUrl": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+          "weight": null,
+          "marketRisks": [],
+          "portfolioRisks": []
+        }
+      ]
+    }
+  }
+}
