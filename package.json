@@ -22,7 +22,6 @@
     "execa": "3.2.0",
     "fs-extra": "11.1.0",
     "glob": "10.2.3",
-    "husky": "7.0.4",
     "jest": "29.5.0",
     "json5": "2.1.1",
     "lint-staged": "9.2.5",
@@ -144,5 +143,10 @@
         }
       }
     ]
+  },
+  "dependencies": {
+    "echarts": "5.4.2",
+    "echarts-for-react": "3.0.2",
+    "husky": "8.0.3"
   }
 }
