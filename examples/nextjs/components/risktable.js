@@ -5,14 +5,14 @@ import React from "react";
 const RiskTable = () => {
 
     return (
-        <div  style={{display: "flex"}}>
+        <div >
             <div style={{height: "20px"}}></div>
             <div className={styles.expandable}> 
                 <div><b>Market Risk</b></div>
                 <div style={{height: "20px"}}></div>
                 <div>Score: 3/10</div>
 
-                <div style={{flex: "1"}}>
+                <div>
                 <table className={styles.mytable}>
 	<tbody>
 		<tr className={styles.tablecell}>
@@ -49,8 +49,8 @@ const RiskTable = () => {
 </div>
             </div>
 
-            <div style={{height: "2000px"}}></div>
-            <div style={{flex: "1"}}>
+            <div style={{height: "250px"}}></div>
+            <div>
             <div className={styles.expandable}> 
                 <div><b>Liquidity Risk</b></div>
                 <div style={{height: "20px"}}></div>

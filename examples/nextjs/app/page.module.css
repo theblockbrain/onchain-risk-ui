@@ -3,7 +3,6 @@
   align-items: center;
   padding: 6rem;
   height: 100vh;
-  overflow: auto; /* Add this line to enable scrolling */
 }
 
 .description {
